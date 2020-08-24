@@ -1,0 +1,14 @@
+google : json-server
+
+https://github.com/typicode/json-server
+
+iniciar un servidor con esto 
+
+Install JSON Server
+
+npm install -g json-server
+
+Start JSON Server
+
+json-server --watch db.json
+json-server --watch -p3001 names.json
