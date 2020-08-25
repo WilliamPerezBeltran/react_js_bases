@@ -1,0 +1,7 @@
+
+// npm install react-bootstrap bootstrap
+
+// google: react bootstrap
+// npm install react-bootstrap bootstrap
+
+// Do not forget add ccs and javascript links
